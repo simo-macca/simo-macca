@@ -63,7 +63,7 @@ This project is my best demonstration of:
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
 ![C/C++](https://img.shields.io/badge/C%2F%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
 
-→ Detailed breakdown in my [portfolio skills section](https://simo-macca.github.io/my-portfolio/)
+→ Detailed breakdown in my [portfolio skills section](https://simo-macca.github.io/my-portfolio/#skills)
 
 ---
 
