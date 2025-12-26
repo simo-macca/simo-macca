@@ -89,17 +89,9 @@ This project is my best demonstration of:
 - **Website:** https://simo-macca.github.io/my-portfolio/
 - **Email:** simone.maccario04@gmail.com
 - **LinkedIn:** [Simone Maccario](https://www.linkedin.com/in/simone-maccario-70a339362/)
-- **Instagram:** [@simo--macca](https://www.instagram.com/simo--macca)
+- **Instagram:** [@simo__macca](https://www.instagram.com/simo__macca)
 
 **Have an opportunity, question, or just want to chat?** Reach out via email or LinkedIn — I'm always open to interesting conversations.
-
----
-
-## 📊 GitHub stats
-
-![Simone's GitHub stats](https://github-readme-stats.vercel.app/api?username=simo-macca&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=simo-macca&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117)](https://github.com/simo-macca)
 
 ---
 
