@@ -1,102 +1,47 @@
-# Simone Maccario 👨‍💻
+### Hi there, I'm Simone
 
-> **Full-stack developer** | Bachelor student at USI | Building clean, robust code | Always learning
+I am a final-year Informatics Bachelor's candidate with a strong focus on theoretical computer science, optimization methods, and full-stack development. I enjoy bridging the gap between complex backend logic (like SAT solvers and search indexing) and clean, interactive user interfaces.
 
----
+I thrive in collaborative environments and have built all of my major projects alongside peers, emphasizing clean architecture, meticulous documentation, and agile teamwork.
 
-## 🎯 About me
+### Let's Connect
 
-I'm a developer who believes **code is for humans first, machines second**. My philosophy is simple:
-1. **Make it work** — solve the problem  
-2. **Make it robust** — refactor for resilience  
-3. **Make it beautiful** — polish for readability and maintainability
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/simone-maccario-70a339362/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:simone.maccario04@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/simo__macca)
 
-I'm equally comfortable on frontend and backend, and I adapt quickly to new challenges. Currently focused on shipping solid projects and graduating from USI, with eyes on a role where I can grow as a full-stack developer.
+*Personal Portfolio: Currently a work in progress! 🚧*
 
----
+### Current Status
+* **Wrapping up my Bachelor's thesis:** Designing a static analysis dashboard to extract pedagogical insights from anonymous user data for PyTamaro-Web.
+* **Looking ahead:** Applying for Master's degree programs, specifically for the "Data Management Systems" and "Programming Languages & Software Engineering" tracks at **ETH Zurich**.
 
-## 🚀 Featured achievement
+### Tech Stack & Tools
 
-**SEWorld** — Rewrote & refactored a project from scratch  
-Repo: [simo-macca/SEWorld](https://github.com/simo-macca/SEWorld) (work in progress)
+*Languages*
 
-What made this special:
-- Inherited a large codebase built by 12+ people across multiple teams
-- Analyzed the architecture, identified bottlenecks and design issues
-- **Completely rewrote the project** with a focus on: cleaner architecture, improved performance, better code organization, and maintainability
-- Result: more fluid, resilient, and robust system — easier for the team to understand and extend
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
-This project is my best demonstration of:
-- Full-stack thinking (frontend + backend harmoniously integrated)
-- Architectural refactoring and code smell elimination
-- Attention to developer experience and code readability
+*Frameworks & Databases*
 
----
+![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
+![Spring Boot](https://img.shields.io/badge/spring_boot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Apache Solr](https://img.shields.io/badge/Apache_Solr-D9411E?style=for-the-badge&logo=apachesolr&logoColor=white)
 
-## 💼 Featured projects
+*Tools & Environments*<br>
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
 
-| Project | Description | Tech | Status |
-|---------|-------------|------|--------|
-| **SEWorld** | Refactored & improved full-stack project | Spring Boot, PostgreSQL, Frontend tech | 🔄 In Progress |
-| **my-portfolio** | Personal developer portfolio & showcase | HTML, CSS, JavaScript | ✅ Live |
+### Highlighted Collaborative Projects
 
-→ See more on my portfolio: https://simo-macca.github.io/my-portfolio/
-
----
-
-## 🛠️ Skills & Technologies
-
-### Frontend Development
-<img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white" alt="Vue.js" /> <img src="https://img.shields.io/badge/Vue%20Router-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white" alt="Vue Router" /> <img src="https://img.shields.io/badge/HTML%20%26%20CSS-E34C26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML & CSS" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" /> <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" /> <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" /> <img src="https://img.shields.io/badge/Responsive%20Design-FF6B6B?style=for-the-badge&logo=figma&logoColor=white" alt="Responsive Design" />
-
-### Backend Development
-<img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot" /> <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" /> <img src="https://img.shields.io/badge/REST%20APIs-4CAF50?style=for-the-badge&logo=swagger&logoColor=white" alt="REST APIs" /> <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" /> <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" /> <img src="https://img.shields.io/badge/JWT%20Authentication-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" alt="JWT Authentication" />
-
-### Programming Languages
-<img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java" /> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" /> <img src="https://img.shields.io/badge/C%2FC%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C/C++" /> <img src="https://img.shields.io/badge/Racket-3E5C76?style=for-the-badge&logo=scheme&logoColor=white" alt="Racket" /> <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
-
-### Tools & DevOps
-<img src="https://img.shields.io/badge/Git%20%26%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="Git & GitHub" /> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" /> <img src="https://img.shields.io/badge/Maven%20%26%20Gradle-007396?style=for-the-badge&logo=apache-maven&logoColor=white" alt="Maven & Gradle" /> <img src="https://img.shields.io/badge/CI%2FCD%20Pipelines-4CAF50?style=for-the-badge&logo=githubactions&logoColor=white" alt="CI/CD Pipelines" /> <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
-
-### Libraries & Other Technologies
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" /> <img src="https://img.shields.io/badge/Celery-37B24D?style=for-the-badge&logo=celery&logoColor=white" alt="Celery" /> <img src="https://img.shields.io/badge/Ollama%20(AI)-FF6B35?style=for-the-badge&logo=openai&logoColor=white" alt="Ollama (AI)" /> <img src="https://img.shields.io/badge/Vitest-6E9F18?style=for-the-badge&logo=vitest&logoColor=white" alt="Vitest" /> <img src="https://img.shields.io/badge/Microsoft%20Office-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" alt="Microsoft Office" />
-
-
-→ Detailed breakdown in my [portfolio skills section](https://simo-macca.github.io/my-portfolio/#skills)
-
----
-
-## 🎓 Education & info
-
-- **Bachelor's degree** — Università della Svizzera italiana (USI)
-- **Languages:** Italian (native) 🇮🇹 | English (fluent) 🇬🇧
-- **Interests:** football ⚽ | motorbike riding 🏍️ | extreme sports 🪂
-
----
-
-## 🎯 What I'm looking for
-
-- **Graduation + job/internship** in full-stack development
-- Roles where I can contribute to clean architecture and mentoring
-- Teams that value code quality and continuous learning
-- Positions open to someone who adapts quickly and solves problems end-to-end
-
----
-
-## 📬 Let's connect
-
-- **Website:** https://simo-macca.github.io/my-portfolio/
-- **Email:** simone.maccario04@gmail.com
-- **LinkedIn:** [Simone Maccario](https://www.linkedin.com/in/simone-maccario-70a339362/)
-- **Instagram:** [@simo__macca](https://www.instagram.com/simo__macca)
-
-**Have an opportunity, question, or just want to chat?** Reach out via email or LinkedIn — I'm always open to interesting conversations.
-
----
-
-<div align="center">
-
-**Thanks for visiting my profile!**  
-If you find my work interesting, feel free to ⭐ my repos and reach out.
-
-</div>
+* **Full-Stack Educational Platform:** A comprehensive learning management system featuring AI-assisted exercise evaluation, detailed statistical dashboards, and role-based access for instructors and users. *(Java Spring Boot, Vue.js)*
+* **ToC Movers:** A logistics problem modeling tool that visualizes solutions step-by-step using Boolean Satisfiability (SAT) solvers and custom constraint encoding. *(Python, Vue.js, SAT Solvers)*
+* **Meme Search Engine:** A containerized search engine featuring automated web crawlers for popular meme platforms and fast data indexing via manual Solr integration. *(Vue.js, Python, Scrapy, Apache Solr, Docker)*
+* **Classic Game Architectures:** Implementations of classic games focusing on object-oriented design patterns (Battleship in Java using State/Visitor patterns) and functional programming concepts (Snake in Racket).
