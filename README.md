@@ -36,7 +36,8 @@ I thrive in collaborative environments and have built all of my major projects a
 ![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Apache Solr](https://img.shields.io/badge/Apache_Solr-D9411E?style=for-the-badge&logo=apachesolr&logoColor=white)
 
-*Tools & Environments*<br>
+*Tools & Environments*
+
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
