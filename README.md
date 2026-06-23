@@ -10,7 +10,7 @@ I thrive in collaborative environments and have built all of my major projects a
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:simone.maccario04@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/simo__macca)
 
-*Personal Portfolio: Currently a work in progress! 🚧*
+*Check out my **[Personal Portfolio](https://simo-macca.github.io)**!*
 
 ### Current Status
 * **Wrapping up my Bachelor's thesis:** Designing a static analysis dashboard to extract pedagogical insights from anonymous user data for PyTamaro-Web.
